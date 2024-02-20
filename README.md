@@ -1,3 +1,7 @@
+v1.cs contains the former version before refactoring.
+
+v2.cs contains the refactored version.
+
 Key Changes and Improvements:
 
 * Code Organization: Methods are organized logically, separating initialization, game loop actions (input processing, game state updates, collision detection), and rendering.
