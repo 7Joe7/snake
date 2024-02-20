@@ -1,6 +1,8 @@
 v1.cs contains the former version before refactoring.
 
-v2.cs contains the refactored version.
+v2.cs contains a helper version that doesn't work.
+
+v3.cs contains the final refactored version that is working basically the same way as the first version (the only difference is the cursor position).
 
 Key Changes and Improvements:
 

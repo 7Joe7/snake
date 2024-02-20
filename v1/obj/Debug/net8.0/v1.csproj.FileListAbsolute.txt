@@ -1,0 +1,15 @@
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/bin/Debug/net8.0/v1
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/bin/Debug/net8.0/v1.deps.json
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/bin/Debug/net8.0/v1.runtimeconfig.json
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/bin/Debug/net8.0/v1.dll
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/bin/Debug/net8.0/v1.pdb
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/obj/Debug/net8.0/v1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/obj/Debug/net8.0/v1.AssemblyInfoInputs.cache
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/obj/Debug/net8.0/v1.AssemblyInfo.cs
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/obj/Debug/net8.0/v1.csproj.CoreCompileInputs.cache
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/obj/Debug/net8.0/v1.sourcelink.json
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/obj/Debug/net8.0/v1.dll
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/obj/Debug/net8.0/refint/v1.dll
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/obj/Debug/net8.0/v1.pdb
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/obj/Debug/net8.0/v1.genruntimeconfig.cache
+/Users/jerneker/Projects/gocode/src/github.com/7Joe7/snake/v1/obj/Debug/net8.0/ref/v1.dll
